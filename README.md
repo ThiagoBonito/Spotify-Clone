@@ -1,7 +1,7 @@
 # Spotify-Clone
 
 # Tecnologias usadas:
-<h2>HTML, CSS</h2>
+<h2>HTML, CSS, Bootstrap</h2>
 
 
 #Prints:
